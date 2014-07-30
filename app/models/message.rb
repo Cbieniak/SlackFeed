@@ -13,5 +13,6 @@ class Message < Base
   attr_accessor :username
   attr_accessor :bot_id
   attr_accessor :edited
+  attr_accessor :mrkdwn
 
  end
